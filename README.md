@@ -6,19 +6,19 @@
 
 ### Backend Engineer in Progress • AI Builder • Full-Stack Developer
 
-<a href="https://readme-typing-svg.demolab.com/">
+<a href="https://github.com/divyam-r25">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+products;Learning+Backend+Engineering;Exploring+AI+Agents+%26+LLMs;Turning+ideas+into+working+software;Building+developer+tools;Learning+by+shipping" alt="Typing SVG" />
 </a>
 
-<br>
+<br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=divyam-r25&style=flat-square&color=58A6FF&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=divyam-r25&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
 <br>
 
-I enjoy building practical software at the intersection of backend engineering and AI. Right now I'm focused on Python, FastAPI, databases, and system design — while exploring how LLMs and AI agents actually get built into working products, not just demos.
+I enjoy building practical software at the intersection of backend engineering and AI systems. Right now I'm focused on Python, FastAPI, relational databases, and scalable system design — while exploring how LLMs and multi-agent systems integrate into reliable, production-grade applications.
 
 <br>
 
@@ -26,23 +26,45 @@ I enjoy building practical software at the intersection of backend engineering a
 
 ```python
 class Divyam:
-    def __init__(self):
-        self.role = "Aspiring Backend Engineer"
-        self.based_in = "India"
+    role = "Aspiring Backend Engineer"
+    based_in = "India"
 
-        self.languages = ["Python", "Java", "JavaScript"]
+    languages = [
+        "Python",
+        "Java",
+        "JavaScript"
+    ]
 
-        self.backend = ["FastAPI", "Node.js", "REST APIs"]
-        self.frontend = ["React", "HTML", "CSS", "Tailwind"]
-        self.databases = ["PostgreSQL", "MongoDB"]
-        self.infrastructure = ["Docker", "AWS", "Linux"]
+    backend = [
+        "FastAPI",
+        "Node.js",
+        "REST APIs"
+    ]
 
-        self.exploring = [
-            "AI Engineering",
-            "LLMs",
-            "AI Agents",
-            "System Design",
-        ]
+    frontend = [
+        "React",
+        "HTML",
+        "CSS",
+        "Tailwind"
+    ]
+
+    databases = [
+        "PostgreSQL",
+        "MongoDB"
+    ]
+
+    infrastructure = [
+        "Docker",
+        "AWS",
+        "Linux"
+    ]
+
+    exploring = [
+        "AI Engineering",
+        "LLMs",
+        "AI Agents",
+        "System Design"
+    ]
 
     def philosophy(self):
         return "Learn by building. Improve by shipping."
@@ -54,69 +76,50 @@ class Divyam:
 
 | Area | Focus |
 |---|---|
-| Backend Engineering | Python, FastAPI, REST APIs, PostgreSQL |
-| AI Engineering | LLM applications, AI agents, AI tooling |
-| System Design | Architecture, scalability, API design |
-| DSA | Algorithms, problem solving, interview prep |
-| Cloud / Infrastructure | AWS, Docker, Linux |
-| Full-Stack Development | React, modern web applications |
+| **Backend Engineering** | Python, FastAPI, Node.js, REST APIs, PostgreSQL |
+| **AI Engineering** | LLM applications, multi-agent systems, RL training environments |
+| **System Design** | Architecture, scalability, API design, system reliability |
+| **DSA & Core CS** | Data structures, algorithms, problem-solving |
+| **Cloud & DevOps** | Docker, AWS, Linux, CI/CD workflows |
+| **Full-Stack Development** | React, Vite, TypeScript, modern web applications |
 
 <br>
 
 ### 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-**🛡️ AgentGuard**
-
-AI risk-management tooling for AI agents — focused on identifying and surfacing potentially risky agent actions before they execute.
-
-`AI Agents` `Risk Tooling` `Python`
-
-</td>
-<td width="50%" valign="top">
-
-**🧭 EpistemicOps**
-
-An experimental system exploring structured reasoning, evidence, and reliability for AI systems.
-
-`AI Reliability` `Reasoning` `Research`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**⚙️ AI-CTO**
-
-An AI-assisted engineering and product experimentation project, exploring how AI can support technical decision-making.
-
-`AI Tooling` `Product Experiments`
-
-</td>
-<td width="50%" valign="top">
-
-**🌐 OpenEnv Projects**
-
-Experiments involving environments, agents, evaluation, and automation for AI workflows.
-
-`Agents` `Environments` `Evaluation`
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/divyam-r25/Agent-Guard"><h3>🛡️ Agent-Guard</h3></a>
+      <p>An intent-integrity security layer for agentic commerce that verifies an AI shopping agent's proposed transaction against user intent, trusted merchant data, and deterministic policy before payment execution. Built for the Razorpay AI Buildathon 2026.</p>
+      <sub><b>Tech:</b> TypeScript • Node.js • React • Google Gemini • Razorpay Test API</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/divyam-r25/EpistemicOPS"><h3>🧭 EpistemicOPS</h3></a>
+      <p>A reinforcement learning environment designed to evaluate and train LLM agents to detect silent temporal API drift, reason under uncertainty, and transfer generational knowledge across operational eras.</p>
+      <sub><b>Tech:</b> Python • GRPO • RL Environments • LLM Benchmarking • Gradio</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/divyam-r25/OODA"><h3>⚡ OODA</h3></a>
+      <p>A mobile-first executive companion and competitive intelligence application utilizing a privacy-first multi-agent execution engine to automatically scrape, analyze, and synthesize competitive signals into actionable business insights.</p>
+      <sub><b>Tech:</b> React Native • Expo • TypeScript • Multi-Agent Orchestration • Ollama • OpenAI</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/divyam-r25/SHIFT"><h3>🔄 SHIFT</h3></a>
+      <p>A modular workspace and engineering repository under active development for exploring modern systems architecture, tools, and developer workflows.</p>
+      <sub><b>Tech:</b> Software Engineering • Systems Architecture • Active Development</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/divyam-r25/ShopKart"><h3>🛒 ShopKart</h3></a>
+      <p>A full-stack e-commerce web application featuring product catalog management, shopping cart operations, JWT-authenticated customer workflows, and RESTful API services.</p>
+      <sub><b>Tech:</b> React • Node.js • Express • MongoDB • Vite • REST APIs</sub>
+    </td>
+  </tr>
 </table>
-
-<div align="center">
-
-**Also shipped**
-
-<a href="https://github.com/divyam-r25/ShopKart">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=divyam-r25&repo=ShopKart&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="ShopKart repository card" />
-</a>
-
-</div>
 
 <br>
 
@@ -130,15 +133,15 @@ Experiments involving environments, agents, evaluation, and automation for AI wo
 
 <br><br>
 
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" alt="React, HTML, CSS, Tailwind, Vite" />
-
-<br><br>
-
 **Backend**
 <br>
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" alt="FastAPI, Node.js, Express" />
+
+<br><br>
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" alt="React, HTML, CSS, Tailwind, Vite" />
 
 <br><br>
 
@@ -156,25 +159,12 @@ Experiments involving environments, agents, evaluation, and automation for AI wo
 
 <br>
 
-### 📊 GitHub Analytics
-
-<table align="center">
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=divyam-r25&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="Divyam's GitHub Stats" />
-</td>
-<td>
-<img src="https://streak-stats.demolab.com/?user=divyam-r25&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Divyam's GitHub Streak" />
-</td>
-</tr>
-</table>
-
-<br>
-
-### 📈 Contribution Activity
+### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyam-r25&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=39D353&area=true&area_color=58A6FF" alt="Divyam's contribution activity graph" width="100%" />
+  <a href="https://github.com/divyam-r25">
+    <img src="https://streak-stats.demolab.com/?user=divyam-r25&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Divyam's GitHub Streak" />
+  </a>
 </div>
 
 <br>
@@ -185,7 +175,7 @@ Experiments involving environments, agents, evaluation, and automation for AI wo
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyam-r25/divyam-r25/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyam-r25/divyam-r25/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/divyam-r25/divyam-r25/output/github-contribution-grid-snake.svg" width="100%" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/divyam-r25/divyam-r25/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 </div>
 
@@ -195,11 +185,10 @@ Experiments involving environments, agents, evaluation, and automation for AI wo
 
 ```python
 mission = [
-    "Learn deeply.",
-    "Build consistently.",
-    "Ship useful software.",
-    "Become an excellent backend engineer.",
-    "Understand AI, not just call AI APIs.",
+    "Become a strong backend engineer",
+    "Build useful AI-powered systems",
+    "Improve DSA and system design",
+    "Ship real-world projects",
 ]
 ```
 
@@ -209,8 +198,8 @@ mission = [
 
 ```text
 Backend     → Python → FastAPI → PostgreSQL → Redis → System Design
-AI          → Python → ML Fundamentals → LLMs → RAG → AI Agents
-Engineering → DSA → APIs → Databases → Docker → AWS
+AI          → ML Fundamentals → LLMs → Multi-Agent Systems → Evaluation
+Core        → DSA → REST APIs → Docker → Cloud & Deployment
 ```
 
 <br>
@@ -219,13 +208,11 @@ Engineering → DSA → APIs → Databases → Docker → AWS
 
 ### 💬 Philosophy
 
-> Build things that solve real problems.
+> Build things that solve real problems.  
 > Learn by building. Improve by shipping.
-
-</div>
 
 <br>
 
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=120&section=footer" width="100%" alt="footer wave" />
+
 </div>
